@@ -7,18 +7,13 @@
 
 int main(void)
 {
-	int iterator;
-
-	printf("Infinite loop incoming :(\n");
-
-	iterator = 0;
-
-	/*while (iterator < 10)*/
-	/*{*/
-	/*putchar(iterator);*/
-	/*}*/
-
-	printf("Infinite loop avoided! \\o/\n");
-
-	return (0);
+int iterator;
+printf("Infinite loop incoming :(\n");
+iterator = 0;
+/*while (iterator < 10)*/
+/*{*/
+/*putchar(iterator);*/
+/*}*/
+printf("Infinite loop avoided! \\o/\n");
+return (0);
 }
