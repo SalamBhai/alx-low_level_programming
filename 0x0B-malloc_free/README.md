@@ -1,4 +1,4 @@
-# Malloc, free
+# 0x0B-malloc_free
 Project done during **Full Stack Software Engineering studies** at **ALX FSE Training**. It aims to learn about automatic and dynamic allocation in **C Programming**.
 
 ## Technologies
