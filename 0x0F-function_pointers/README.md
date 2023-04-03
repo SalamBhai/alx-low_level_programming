@@ -2,7 +2,7 @@
 Project done during **Full Stack Software Engineering studies** at **ALX FSE**. It aims to learn about function pointers in **C language**.
 
 ## Technologies
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 All of the following files are programs written in C:
